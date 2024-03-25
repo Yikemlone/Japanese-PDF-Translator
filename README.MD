@@ -23,3 +23,10 @@ import config
 # Use auth_key varible
 auth_key = config.auth_key
 ```
+
+## Sample Output
+
+```csv
+Page Number, Japanese Sentence, English Sentence
+1, ほとんど創造として取るに足るものはありません, "Almost as insignificant as creation."
+```
